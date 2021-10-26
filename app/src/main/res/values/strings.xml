@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LogBook Rentalz</string>
+
+    <string name="property_of_choices">Property of choices</string>
+    <string name="bedroom_of_choices">Bedroom of choices</string>
+    <string name="furniture_of_choices">Furniture of choices</string>
+    <string name="furniture_selection">Furniture selection</string>
+    <string name="submit">Submit</string>
+    <string name="validate_property_error">Please choose your property</string>
+    <string name="validate_bedrooms_error">Please choose your bedroom amount</string>
+    <string name="validate_furniture_error">Please choose your furniture type</string>
+    <string name="validate_date_time_error">Please select date and time</string>
+    <string name="validate_price">Please input a renting price</string>
+    <string name="validate_reporter">Please input the reporter name</string>
+    <string name="empty_form">Please input the required fields to process</string>
+    <string name="conform_box">Please reconfirm the information</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="result_toast">Your listing have been added!</string>
+    <string name="fail_toast">Error! Please try again.</string>
+    <string name="back_btn">Go back</string>
+    <string name="clear">clear</string>
+</resources>
+
